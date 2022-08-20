@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **.NET 6.0 and Chrome Extension**
 
-- 💬 Ask me about **Laravel, Java, Reactjs, NodeJS**
+- 💬 Ask me about Java, NodeJS**
 
 - 📫 How to reach me **web.developer.keleshteri@gmail.com**
 
