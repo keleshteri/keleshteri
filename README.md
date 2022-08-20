@@ -10,7 +10,6 @@
 ![](https://img.shields.io/badge/Nest.js-informational?style=flat&logo=nestjs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DotNet-informational?style=flat&logo=dotnet&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQl-informational?style=flat&logo=PostgreSQl&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
