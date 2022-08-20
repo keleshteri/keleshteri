@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
 <h1 align="center">Hi all, I'm Keleshteri</h1>
-<h3 align="center">A passionate Full Stack Web Developer and Mobile App Developer 🚀 having experience of building Web applications with Java/ PHP/ JavaScript/ Reactjs / Nodejs and some other cool libraries and frameworks</h3>
+<h3 align="center">A passionate Web Developer and Mobile App Developer 🚀 having experience of building Web applications with Java/ PHP/ JavaScript/ Reactjs / Nodejs and some other cool libraries and frameworks</h3>
 
 - 🌱 I’m currently learning **.NET 6.0 and Chrome Extension**
 
